@@ -70,10 +70,11 @@ TP1-RAG/
 └─ pyproject.toml / requirements.txt
 ```
 ## 📹 Demo
-<video src="video.webm" controls style="max-width:100%; width:720px;">
-  Tu navegador no soporta video HTML5. Mira el archivo aquí:
-  <a href="video.webm">video.webm</a>.
-</video>
+<p>
+  <a href="video.webm?raw=1" download="video.webm">⬇️ Descargar video.webm</a>
+  ·
+  <a href="video.webm">Abrir en el navegador</a>
+</p>
 
 ## Notas importantes
 
