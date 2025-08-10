@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "tp1-rag"
+version = "0.1.0"
+description = "TP1 – RAG Chatbot (Streamlit + Pinecone + Groq)"
+authors = ["JC"]
+readme = "README.md"
+packages = [{ include = "core" }]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+streamlit = "*"
+python-dotenv = "*"
+pypdf = "*"
+sentence-transformers = "*"
+numpy = "*"
+groq = "*"
+pinecone = "^3"
+
+[build-system]
+requires = ["poetry-core>=1.8.0"]
+build-backend = "poetry.core.masonry.api"
