@@ -69,6 +69,11 @@ TP1-RAG/
 │  └─ pipeline.py    # orquestación RAG
 └─ pyproject.toml / requirements.txt
 ```
+## 📹 Demo
+<video src="video.webm" controls style="max-width:100%; width:720px;">
+  Tu navegador no soporta video HTML5. Mira el archivo aquí:
+  <a href="video.webm">video.webm</a>.
+</video>
 
 ## Notas importantes
 
